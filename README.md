@@ -16,3 +16,6 @@ Assalamu Alaikum! I'm Jami Khan, a passionate Full Stack Developer from Banglade
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rjk-Jami&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rjk-Jami&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rjk-Jami&theme=github_dark&utcOffset=8)
+
+# Git
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rjk-Jami&theme=github_dark)
