@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+I’m currently working at [Pakiza Software Limited](https://pakizasoftware.com/)
+
 Assalamu Alaikum! I'm Jami Khan, a passionate Full Stack Developer from Bangladesh. I love building smooth and efficient web applications, and I'm skilled in frontend technologies like React.js and Next.js, along with backend solutions using Node.js and MongoDB.<br><br>Currently, I’m learning Postman, TypeScript and exploring GraphQL and Ant Design to improve my skills even more. I believe in writing clean, maintainable code and constantly look for ways to improve myself in this ever-changing tech world.<br><br>When I’m not coding, I enjoy working on personal projects like Nimble Wear, collaborating with fellow developers, or learning new technologies.<br><br>Feel free to check out my repositories and connect with me if you’re interested in collaborating!
 
 ## 🌐 Socials:
