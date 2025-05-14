@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Profile Views](https://komarev.com/ghpvc/?username=Rjk-Jami&label=Profile%20views&color=0e75b6&style=flat)
 
 I’m currently working at [Pakiza Software Limited](https://pakizasoftware.com/)
 
