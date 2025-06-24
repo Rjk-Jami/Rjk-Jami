@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=120&section=header&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=dc2910&height=120&section=header&animation=fadeIn"
     alt="Header Banner"
 />
 </p>
@@ -31,4 +31,4 @@ Assalamu Alaikum! I'm Jami Khan, a passionate Full Stack Developer from Banglade
 
 ### 📬 Connect With Me
 
-<p align="center"> <a href="https://www.linkedin.com/in/raihanjamikhan/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <!-- Future links can be added here, like GitHub or portfolio --> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=120&section=footer"/> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/raihanjamikhan/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <!-- Future links can be added here, like GitHub or portfolio --> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2910&height=120&section=footer"/> </p>
