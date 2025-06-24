@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,dc2626&height=120&section=header&text=Welcome&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlign=40&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,dc2626&height=120&section=header&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlign=40&fontAlignY=35"
     alt="Header Banner"
 />
 </p>
