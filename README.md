@@ -4,7 +4,7 @@
 I’m currently working at [Pakiza Software Limited](https://pakizasoftware.com/)
 Assalamu Alaikum! I'm Jami Khan, a passionate Full Stack Developer from Bangladesh. I love building smooth and efficient web applications, and I'm skilled in frontend technologies like React.js and Next.js, along with backend solutions using Node.js and MongoDB.<br><br>I’m currently working on a CRM using TypeScript and Next.js 15<br><br>When I’m not coding, I enjoy working on personal projects like Nimble Wear, collaborating with fellow developers, or learning new technologies.<br><br>Feel free to check out my repositories and connect with me if you’re interested in collaborating!
 
-# 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanjamikhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanjamikhan@gmail.com)
 
