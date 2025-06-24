@@ -1,3 +1,9 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,dc2626&height=120&section=header&text=Welcome&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlign=40&fontAlignY=35"
+    alt="Header Banner"
+/>
+</p>
 <h1 align="center">Hi there 👋, I'm Raihan Jami Khan</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rjk-Jami&label=Profile%20views&color=0e75b6&style=flat)
