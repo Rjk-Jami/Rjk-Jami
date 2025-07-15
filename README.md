@@ -4,7 +4,8 @@
     alt="Header Banner"
 />
 </p>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&width=850&lines=Hi+there+👋+,)  <h1 align="center">I'm Raihan Jami Khan</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&width=850&lines=Hi+there+👋+,)
+<h1 align="center">I'm Raihan Jami Khan</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rjk-Jami&label=Profile%20views&color=0e75b6&style=flat)
 
