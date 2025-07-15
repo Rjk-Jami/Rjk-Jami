@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&width=850&lines=Hi+there+👋+%3B%29)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&width=850&lines=Hi+there+👋+,)
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=dc2910&height=120&section=header&animation=fadeIn"
